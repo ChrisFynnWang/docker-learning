@@ -51,7 +51,7 @@
         <eavaSpringBootStarter.version>1.0.3</eavaSpringBootStarter.version>
         <eava.version>1.0.0</eava.version>
         <lombok.version>1.16.18</lombok.version>
-        <mysql.version>6.0.6</mysql.version>
+        <mysql.version>5.1.29</mysql.version>
         <json.version>20160810</json.version>
         <alipay.version>0.1</alipay.version>
     </properties>
